@@ -9,5 +9,8 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "start": "npx cypress open"
   }
 }
