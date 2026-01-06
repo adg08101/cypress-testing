@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cypress": "^15.8.1",
+    "tslint": "^6.1.3"
+  },
+  "name": "cypress-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
